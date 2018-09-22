@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/nigfrancis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nigel-francis.github.io
+  * I am nigfrancis (https://keybase.io/nigfrancis) on keybase.
+  * I have a public key with fingerprint 6ADF 1D82 3168 A866 1343  5B4D 3BD1 53AD 1909 BD99
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012088a0500a969cc9fd666022fc118b97261d4e798e02a95f1044eada5c91407d9c0a",
+      "fingerprint": "6adf1d823168a86613435b4d3bd153ad1909bd99",
+      "host": "keybase.io",
+      "key_id": "3bd153ad1909bd99",
+      "kid": "01011e24df218bc8e489e9f7da1b957245854e7eb0a858b64157a297db58912c69a20a",
+      "uid": "221c30fd688f96a8ac0c887e5e049a19",
+      "username": "nigfrancis"
+    },
+    "service": {
+      "hostname": "nigel-francis.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1537633307,
+  "expire_in": 157680000,
+  "prev": "b5ff010d0f03723bd84b9755b0247ac46b8f941ea66b4c045d5b516e5d2a2c29",
+  "seqno": 55,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJtUFRVGF5ELUHGrTBTFpRbOg6Dyzn3+24QyGiKjWMI9gW5nnvvubs3
+1/1mN5aIwsQZx0rSQRkG0iTNMYVBRAmRWNIgoAlLpCGKlNpIZ5KPaVI0u0s6/en8
+OXPeed7nfZ7nvF/EROqiIp7uyzmxcE5rZUR3+8cFurwjtrgiQnTIhYSpiNiKpy9s
+k7HHa96qyoSJAJAEPI8AAwASWEGSBEVmWRaQpCJByIsCR7JQpjEn8BiQSGAUCGga
+IxkxkgBpwMmCBBCRTCiq3YLdTrdq92q0LJIVKPMkBVke8SwLKZpiRFqmRBkyFJKh
+AARRFgSt0erwhDs0cSLyYKPq0Grawzwt73/wD3QDCDFJywqpqZR4TPMCFhRORlAU
+GI6kGZ7RVGMRIJ7hRZaGDIdIgZNFhhcgKbECIqd1F0zTkSSUKKBZ53lFYBGPJCDx
+PIcZDGgBwfDcAg9229E2rKHtqkVxI7ukeojiZEKr+1QJh6MNe/kPg20r7sOMFtVr
+LRD/Ned0O7wOyWHTQFav1+kxhUm8hc5wlx+L5vt8ZlG1y1qoWocPuz2qw06YoIaU
+vGp4gBYLx1IUBbhkAr/uVN3YrIYRDMfyQDvhOdinUYqMomhpyUABFEdqgfK09qsM
+IwKS5pBEs6JmmYYYsaxIS4BmZEZkIIsZmUSkRIate7DL7iBMDKPpRBaN06Na7Mhb
+4MZEcbA9f6YuIko3e9aM8LbpouboH+xgV+u8v4UPYxfU2jo+z24pqctNGsxavsdw
+phXbJs6tf5OrvpFZsbNh7R8Hr7QF2w6ULflpw5lTp9EAtY+MOXa4/l6M73dDf92+
+qmeLdlQ0zsr9+mFb39m3esVX0/eH3m1tzEi8c1O/stXlupU3WG1IfOjIpHx2MuuZ
+tLVDTKF/8w/Y2hCd33tjXV6S3uj/9rh9MMG32/jlJr9hhK1alD18MtgR+cuKgcbS
+J9ddMcQ1DY/XpycMj42eqJrfNPV4cKEprbGq09+g22j58/2RF2oeJd6I7+qOXnDv
+xQrq6hZudQdVwukzB9TqdzZdeM7fkX218JH5t2/H1+KxPnPcV9+1nC+p6T2m+j89
+WFpmz6/Tr9nSfPTo9QOnl27PaIYjgR2/bnSl4rbMWzUfXB/vVDtTReP6gclAaGrJ
+aN5HRmJPLlP8G6z0vjaRMHtyZmrpqmC596+bL6d2p2VVrVma0/MeOZA4I50zXjhe
+Dg6lmJuyCtvLzM2en8uiQm48erk+5u27h0P6O7ofN0Rbnic/EejKnYaX6MxDqMO1
+vavlom1Yb30qNhBaTC3fn7Y3feqSNOqfSrqIasu9KeZltnNNxKlF84onz7sCen7b
+Xt2lrvr6x544uXpi3JeT0D8cvyp2KPX7uRmLrwUCn4Gey6G7RrgsKW6XMHdl8siO
+/sihsV3Wb669krI7GLk536n26P8BvRnD7A==
+=XYW5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nigfrancis
+
+==================================================================
+
